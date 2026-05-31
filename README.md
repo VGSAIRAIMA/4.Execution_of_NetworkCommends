@@ -27,6 +27,44 @@ This commands includes
 <BR>
 
 ## Output
+## netstat
+
+![image](https://github.com/VGSAIRAIMA/4.Execution_of_NetworkCommends/blob/main/Screenshot%202026-05-31%20151907.png)
+![image](https://github.com/VGSAIRAIMA/4.Execution_of_NetworkCommends/blob/main/Screenshot%202026-05-31%20153901.png)
+
+## ipconfig
+![image](https://github.com/VGSAIRAIMA/4.Execution_of_NetworkCommends/blob/main/Screenshot%202026-05-31%20153931.png)
+
+## ping
+![image](https://github.com/VGSAIRAIMA/4.Execution_of_NetworkCommends/blob/main/Screenshot%202026-05-31%20153946.png)
+
+## tracert
+![image](https://github.com/VGSAIRAIMA/4.Execution_of_NetworkCommends/blob/main/Screenshot%202026-05-31%20154005.png)
+
+## nslookup
+![image](https://github.com/VGSAIRAIMA/4.Execution_of_NetworkCommends/blob/main/Screenshot%202026-05-31%20154050.png)
+
+## getmac
+![image](https://github.com/VGSAIRAIMA/4.Execution_of_NetworkCommends/blob/main/Screenshot%202026-05-31%20154231.png)
+
+## hostname
+![image](https://github.com/VGSAIRAIMA/4.Execution_of_NetworkCommends/blob/main/Screenshot%202026-05-31%20154248.png)
+
+## nbstat
+![iamge](https://github.com/VGSAIRAIMA/4.Execution_of_NetworkCommends/blob/main/Screenshot%202026-05-31%20154404.png)
+
+## arp
+![image]()
+
+## systeminfo
+![image]()
+
+## FTP
+![image]()
+
+## Curl
+![image]()
+
 
 ## Result
 Thus Execution of Network commands Performed 
