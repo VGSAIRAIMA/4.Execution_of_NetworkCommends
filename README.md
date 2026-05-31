@@ -54,16 +54,16 @@ This commands includes
 ![iamge](https://github.com/VGSAIRAIMA/4.Execution_of_NetworkCommends/blob/main/Screenshot%202026-05-31%20154404.png)
 
 ## arp
-![image]()
+![image](https://github.com/VGSAIRAIMA/4.Execution_of_NetworkCommends/blob/main/Screenshot%202026-05-31%20165704.png)
 
 ## systeminfo
-![image]()
+![image](https://github.com/VGSAIRAIMA/4.Execution_of_NetworkCommends/blob/main/Screenshot%202026-05-31%20165712.png)
 
 ## FTP
-![image]()
+![image](https://github.com/VGSAIRAIMA/4.Execution_of_NetworkCommends/blob/main/Screenshot%202026-05-31%20165809.png)
 
 ## Curl
-![image]()
+![image](https://github.com/VGSAIRAIMA/4.Execution_of_NetworkCommends/blob/main/Screenshot%202026-05-31%20165900.png)
 
 
 ## Result
